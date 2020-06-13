@@ -1,0 +1,10 @@
+export module module2;
+
+import module3;
+
+import std.core;
+
+export void module2()
+{
+
+}

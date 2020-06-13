@@ -1,0 +1,8 @@
+export module module4;
+
+import std.core;
+
+export void module4()
+{
+
+}

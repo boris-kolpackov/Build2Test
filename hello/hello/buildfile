@@ -1,0 +1,3 @@
+exe{hello}: {hxx ixx txx cxx mxx}{**}
+
+cxx.poptions =+ "-I$out_root" "-I$src_root"
