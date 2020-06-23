@@ -3,7 +3,7 @@ import module2;
 import module3;
 import module4;
 
-import std.core;
+//import std.core;
 
 int main (int argc, char* argv[])
 {
